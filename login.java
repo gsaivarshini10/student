@@ -1,5 +1,5 @@
-public class login{
-    public static void main(Stringargs[]){
-        System.out.println("hello from feature login")
+public class login {
+    public static void main(String[] args) {
+        System.out.println("hello from feature login");
     }
 }
